@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist myshopproject/yii2-mellat-bank "*"
+php composer.phar require --prefer-dist rezarad90/yii2-mellat-bank "dev-master"
 ```
 
 or add
 
 ```
-"myshopproject/yii2-mellat-bank": "*"
+"rezarad90/yii2-mellat-bank": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \myshopproject\AutoloadExample::widget(); ?>```"# mellat-bank" 
+<?= \rezarad90\AutoloadExample::widget(); ?>```"# mellat-bank" 

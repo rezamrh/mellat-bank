@@ -1,6 +1,6 @@
 <?php
 
-namespace myshopproject;
+namespace rezarad90;
 
 /**
  * This is just an example.

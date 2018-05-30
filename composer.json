@@ -1,5 +1,5 @@
 {
-    "name": "myshopproject/yii2-mellat-bank",
+    "name": "rezarad90/yii2-mellat-bank",
     "description": "Library for yii2 to connect to bank mellat getway",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "myshopproject\\": ""
+            "rezarad90\\": ""
         }
     }
 }
